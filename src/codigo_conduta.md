@@ -3,8 +3,7 @@ SANCA HACKSPACE
 
 Este Código de Conduta foi aprovado _________ realizada no dia __ de 
 ___ de ____. É mantido de forma open-source, junto com as atas de 
-reuniões e demais documentos relacionados, no [Github](https://github.
-com/sancahs/estatuto).
+reuniões e demais documentos relacionados, no [Github](https://github.com/sancahs/estatuto).
 
 
 ---
