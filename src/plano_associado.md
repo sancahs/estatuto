@@ -28,7 +28,7 @@ e responsabilidades perante a comunidade.
 
 Forma de Pagamento
 ----------------------
-
+O pagamento será feito via PIX na conta bancária do Diretor Financeiro em serviço. O pagamento deve ser combinado com o diretor.
 
 
 Diretos dos Associados
@@ -62,4 +62,4 @@ Todo associado compromete-se a:
 
 Licença e atribuição
 ----------------------
-
+O plano de associado foi planejado em conjunto com os fundadores do espaço

@@ -103,15 +103,17 @@ ou impeçam o crescimento coletivo do HACKSPACE.
 Se você testemunha ou está sujeito a um comportamento inaceitável
 ----------------------
 
+Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras 
+preocupações, por favor notifique uma dos fundadores do Hackspace assim que possível. Você pode encontrar uma lista dos fundadores verificando os administradores/donos do grupo (telegram)[https://t.me/sanca_hs/18471]. Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras.
 
 
 
 Como responder a uma queixa
 ----------------------
+Se você acha que foi falsamente ou injustamente acusado de violar este Código de Conduta, deve notificar um dos fundadores com sua versão dos fatos, que será analisada juntamente com a queixa original. Os fundadores se encontram no grupo do (telegram)[https://t.me/sanca_hs/18471] , como administradores
 
 
 
 Licença e atribuição
 ----------------------
-
 Este Código de Conduta é baseado no [Código de Conduta do  Laboratório  hacker de campinas](https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md)
