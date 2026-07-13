@@ -101,7 +101,7 @@ fortalecimento de um ambiente saudável, colaborativo, seguro,
 respeitoso e acolhedor. Isso inclui condutas que desestimulem a 
 participação de outras pessoas, comprometam a convivência, enfraqueçam
 a cultura da comunidade, dificultem o compartilhamento de conhecimento 
-ou impeçam o crescimento coletivo do Sanca Hackspace.
+ou impeçam o crescimento coletivo do Sanca Hackerspace.
 
 ### Se você testemunha ou está sujeito a um comportamento inaceitável
 ===============================
