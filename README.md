@@ -1,4 +1,4 @@
-# Sanca Hackspace
+# Sanca Hackerspace
 ===============================
 
 Este documento reúne as principais informações oficiais do **Sanca Hackspace**, incluindo:
