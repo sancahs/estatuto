@@ -42,7 +42,6 @@ criar experiências seguras e positivas para todas as pessoas.
 
 
 ### Cidadania
-===============================
 
 Um objetivo suplementar deste código de conduta é aumentar a 
 cidadania, incentivando as pessoas participantes a reconhecer e 
