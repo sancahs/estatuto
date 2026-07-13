@@ -1,7 +1,7 @@
 # Sanca Hackerspace
 ===============================
 
-Este documento reúne as principais informações oficiais do **Sanca Hackspace**, incluindo:
+Este documento reúne as principais informações oficiais do **Sanca Hackerspace**, incluindo:
 
 - Código de Conduta
 - Plano de Associação
