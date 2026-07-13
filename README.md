@@ -8,7 +8,7 @@ Este documento reúne as principais informações oficiais do **Sanca Hackerspac
 
 É mantido de forma open-source, junto com as atas de reuniões e demais documentos relacionados, no [Github](https://github.com/sancahs/estatuto).
 
-O documento foi aprovado no dia _______ de ______ pelo os membros associados
+O documento foi aprovado no dia __/__/____ pelos membros associados.
 
 
 ## Código de conduta
