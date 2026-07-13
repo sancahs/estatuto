@@ -56,7 +56,6 @@ nossa comunidade seja acolhedora, amigável e incentiva todos os
 participantes a contribuírem ao máximo, queremos saber.
 
 ### Comportamento Esperado
-===============================
 
 - Participe de maneira autêntica e ativa. Ao fazer isso, você contribui para a saúde e a longevidade da comunidade.
 - Exercite consideração e respeito em seu discurso e em suas ações.
