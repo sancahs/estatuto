@@ -101,7 +101,7 @@ ou impeçam o crescimento coletivo do Sanca Hackerspace.
 
 Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras 
 preocupações, por favor notifique uma dos fundadores do Sanca Hackspace assim que possível. Você pode
-encontrar uma lista dos fundadores verificando os administradores/donos do grupo (telegram)[https://t.me/sanca_hs/18471]. 
+encontrar uma lista dos fundadores verificando os administradores/donos do grupo [telegram](https://t.me/sanca_hs/18471). 
 Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras.
 
 
@@ -110,7 +110,7 @@ Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas qu
 
 Se você acha que foi falsamente ou injustamente acusado de violar este Código de Conduta, deve notificar 
 um dos fundadores com sua versão dos fatos, que será analisada juntamente com a queixa original. Os
-fundadores se encontram no grupo do (telegram)[https://t.me/sanca_hs/18471] , como administradores
+fundadores se encontram no grupo do [telegram](https://t.me/sanca_hs/18471) , como administradores
 
 
 
