@@ -69,7 +69,7 @@ participantes a contribuírem ao máximo, queremos saber.
 - Esteja atento ao seu ambiente e às demais pessoas presentes. 
 - Lembre-se de que os espaços utilizados em eventos comunitários podem ser compartilhados com outras pessoas. Seja respeitoso com todos os presentes.
 - Contribua ativamente para a manutenção, organização e melhoria do espaço, zelando pela infraestrutura, pelos equipamentos e pelos recursos compartilhados.
-- Ajude a preservar e fortalecer a cultura, os valores e os princípios do Sanca Hackspace, promovendo um ambiente colaborativo, inclusivo, respeitoso e acolhedor.
+- Ajude a preservar e fortalecer a cultura, os valores e os princípios do Sanca Hackerspace, promovendo um ambiente colaborativo, inclusivo, respeitoso e acolhedor.
 - Acolha novos membros com respeito, paciência e disposição para orientar, incentivando sua integração e participação na comunidade.
 - Conheça, respeite e cumpra este código de conduta, contribuindo para que seus princípios sejam observados por toda a comunidade.
 
