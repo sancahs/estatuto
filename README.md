@@ -70,7 +70,6 @@ participantes a contribuírem ao máximo, queremos saber.
 
 
 ### Comportamentos Inaceitáveis
-===============================
 
 Comportamentos inaceitáveis incluem, por exemplo: intimidação, 
 assédio, comunicações ou ações abusivas, discriminatórias, 
@@ -99,7 +98,6 @@ a cultura da comunidade, dificultem o compartilhamento de conhecimento
 ou impeçam o crescimento coletivo do Sanca Hackerspace.
 
 ### Se você testemunha ou está sujeito a um comportamento inaceitável
-===============================
 
 Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras 
 preocupações, por favor notifique uma dos fundadores do Sanca Hackspace assim que possível. Você pode
@@ -109,7 +107,7 @@ Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas qu
 
 
 ### Como responder a uma queixa
-===============================
+
 Se você acha que foi falsamente ou injustamente acusado de violar este Código de Conduta, deve notificar 
 um dos fundadores com sua versão dos fatos, que será analisada juntamente com a queixa original. Os
 fundadores se encontram no grupo do (telegram)[https://t.me/sanca_hs/18471] , como administradores
@@ -164,5 +162,5 @@ Todo associado compromete-se a:
 
 
 ## Licença e atribuição
-O código de conduta é baseado no [Código de Conduta do Laboratório Hacker de Campinas](https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md)
+O código de conduta é baseado no [Código de Conduta do Laboratório Hacker de Campinas](https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md).
 O plano de associado foi baseado no [Plano de Associado do Laboratório Hacker de Campinas](https://discourse.lhc.net.br/t/associe-se/1140)
