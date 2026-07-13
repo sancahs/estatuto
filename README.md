@@ -138,7 +138,6 @@ O pagamento será feito via PIX na conta bancária do Diretor Financeiro em serv
 
 
 ### Diretos dos Associados
-===============================
 
 Todo associado, independentemente do plano escolhido, possui direito a:
 
