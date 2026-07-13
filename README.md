@@ -151,7 +151,6 @@ Todo associado, independentemente do plano escolhido, possui direito a:
 
 
 ### Deveres dos Associados
-===============================
 
 Todo associado compromete-se a:
 
