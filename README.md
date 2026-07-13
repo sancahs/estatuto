@@ -134,7 +134,6 @@ e responsabilidades perante a comunidade.
 
 
 ### Forma de Pagamento
-===============================
 O pagamento será feito via PIX na conta bancária do Diretor Financeiro em serviço. O pagamento deve ser combinado com o diretor.
 
 
