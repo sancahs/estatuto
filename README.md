@@ -12,7 +12,6 @@ O documento foi aprovado no dia _______ de ______ pelo os membros associados
 
 
 ## Código de conduta
-===============================
 
 ### Finalidade
 ===============================
