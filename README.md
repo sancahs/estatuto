@@ -163,7 +163,7 @@ Todo associado, independentemente do plano escolhido, possui direito a:
 
 Todo associado compromete-se a:
 
-- Cumprir o  [Código de Conduta](https://github.com/sancahs/estatuto/blob/main/src/codigo_conduta.md) e as demais normas do Sanca Hackspace.
+- Cumprir o  [Código de Conduta](https://github.com/sancahs/estatuto/blob/main/README.md) e as demais normas do Sanca Hackerspace.
 - Respeitar a legislação brasileira vigente durante todas as atividades relacionadas ao Sanca Hackspace.
 - Zelar pelo espaço físico, equipamentos, ferramentas e demais recursos compartilhados.
 - Contribuir para um ambiente seguro, colaborativo, inclusivo, respeitoso e acolhedor.
