@@ -14,7 +14,6 @@ O documento foi aprovado no dia _______ de ______ pelo os membros associados
 ## Código de conduta
 
 ### Finalidade
-===============================
 
 Um dos objetivos de todas as atividades e grupos de usuários que se 
 referem a este código de conduta é ser inclusivo para o maior número 
