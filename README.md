@@ -135,7 +135,7 @@ e responsabilidades perante a comunidade.
 O pagamento será feito via PIX na conta bancária do Diretor Financeiro em serviço. O pagamento deve ser combinado com o diretor.
 
 
-### Diretos dos Associados
+### Direitos dos Associados
 
 Todo associado, independentemente do plano escolhido, possui direito a:
 
