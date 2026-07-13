@@ -153,7 +153,7 @@ Todo associado, independentemente do plano escolhido, possui direito a:
 - Participar das atividades promovidas pelo Sanca Hackspace.
 - Utilizar o espaço e os recursos compartilhados, observadas as regras internas e a disponibilidade.
 - Participar das discussões e contribuir para o desenvolvimento da comunidade.
-- Propor projetos, atividades e melhorias para o Sanca Hackspace.
+- Propor projetos, atividades e melhorias para o Sanca Hackerspace.
 - Participar das assembleias.
 - Ter acesso às informações públicas da associação, incluindo atas, regulamentos e demais documentos oficiais.
 
