@@ -172,5 +172,5 @@ Todo associado compromete-se a:
 
 ## Licença e atribuição
 ===============================
-O código de conduta é baseado no [Código de Conduta do  Laboratório  Hacker de Campinas](https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md)
+O código de conduta é baseado no [Código de Conduta do Laboratório Hacker de Campinas](https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md)
 O plano de associado foi baseado no [Plano de Associado do Laboratório Hacker de Campinas](https://discourse.lhc.net.br/t/associe-se/1140)
