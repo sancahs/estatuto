@@ -117,7 +117,6 @@ fundadores se encontram no grupo do (telegram)[https://t.me/sanca_hs/18471] , co
 
 
 ## Plano de associado
-===============================
 
 
 O Sanca Hackspace possui dois planos de associação:
