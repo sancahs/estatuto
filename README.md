@@ -82,7 +82,7 @@ assédio, comunicações ou ações abusivas, discriminatórias,
 depreciativas ou humilhantes, de qualquer participante em nossas 
 comunidades on-line, em todos os eventos relacionados e em
 comunicações individuais realizadas no contexto de atividades do 
-Sanca Hackspace. 
+Sanca Hackerspace. 
 
 O assédio inclui: comentários verbais, escritos ou visuais (incluindo 
 slides de apresentação) prejudiciais ou preconceituosos, relacionados
