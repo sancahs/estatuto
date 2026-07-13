@@ -1,24 +1,25 @@
-SANCA HACKSPACE
+SANCA-HACKSPACE
 ==============================
 
-Este documento descreve os planos de associação do SANCA HACKSPACE. Os planos foram aprovados em 
+Este documento descreve os planos de associação do Sanca-Hackspace. Os planos foram aprovados em 
 _________ realizada no dia **__ de __________ de ____** e poderão ser alterados por deliberação da 
 comunidade em futuras assembleias.
 
-Os valores das contribuições têm como objetivo garantir a sustentabilidade do HACKSPACE, permitindo a manutenção do espaço, aquisição de equipamentos, realização de atividades e desenvolvimento de projetos comunitários.
+Os valores das contribuições têm como objetivo garantir a sustentabilidade do Sanca-Hackspace, permitindo
+a manutenção do espaço, aquisição de equipamentos, realização de atividades e desenvolvimento de projetos comunitários.
 
 ---
 
 Plano Associado
 ----------------------
 
-O SANCA HACKSPACE possui dois planos de associação:
+O Sanca-Hackspace possui dois planos de associação:
 
 - **Plano Associado** – contribuição mensal de **R$ 75,00**.
 - **Plano Associado Apoiador** – contribuição mensal de **R$ 150,00**.
 
 O **Plano Associado Apoiador** representa uma contribuição voluntária maior para auxiliar na
-sustentabilidade do HACKSPACE. Essa contribuição **não concede qualquer privilégio, benefício exclusivo, 
+sustentabilidade do Sanca-Hackspace. Essa contribuição **não concede qualquer privilégio, benefício exclusivo, 
 prioridade de uso ou direito diferenciado**.
 
 
@@ -37,10 +38,10 @@ Diretos dos Associados
 Todo associado, independentemente do plano escolhido, possui direito a:
 
 - Ser tratado com respeito, igualdade e imparcialidade.
-- Participar das atividades promovidas pelo SANCA HACKSPACE.
+- Participar das atividades promovidas pelo Sanca-Hackspace.
 - Utilizar o espaço e os recursos compartilhados, observadas as regras internas e a disponibilidade.
 - Participar das discussões e contribuir para o desenvolvimento da comunidade.
-- Propor projetos, atividades e melhorias para o HACKSPACE.
+- Propor projetos, atividades e melhorias para o Sanca-Hackspace.
 - Participar das assembleias.
 - Ter acesso às informações públicas da associação, incluindo atas, regulamentos e demais documentos oficiais.
 
@@ -50,8 +51,8 @@ Deveres dos Associados
 
 Todo associado compromete-se a:
 
-- Cumprir o  [Código de Conduta](https://github.com/sancahs/estatuto/blob/main/src/codigo_conduta.md) e as demais normas do SANCA HACKSPACE.
-- Respeitar a legislação brasileira vigente durante todas as atividades relacionadas ao HACKSPACE.
+- Cumprir o  [Código de Conduta](https://github.com/sancahs/estatuto/blob/main/src/codigo_conduta.md) e as demais normas do Sanca-Hackspace.
+- Respeitar a legislação brasileira vigente durante todas as atividades relacionadas ao Sanca-Hackspace.
 - Zelar pelo espaço físico, equipamentos, ferramentas e demais recursos compartilhados.
 - Contribuir para um ambiente seguro, colaborativo, inclusivo, respeitoso e acolhedor.
 - Respeitar os demais membros, visitantes e participantes das atividades.

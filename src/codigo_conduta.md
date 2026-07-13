@@ -1,4 +1,4 @@
-SANCA HACKSPACE
+SANCA-HACKSPACE
 ==============================
 
 Este Código de Conduta foi aprovado _________ realizada no dia __ de 
@@ -12,7 +12,7 @@ Finalidade
 ----------------------
 
 Um dos objetivos de todas as atividades e grupos de usuários que se 
-referem a este Código de Conduta é ser inclusivo para o maior número 
+referem a este código de conduta é ser inclusivo para o maior número 
 possível de pessoas colaboradoras, com as mais variadas e 
 diversificadas origens. Como tal, estamos empenhados em proporcionar 
 um ambiente amigável, seguro, acolhedor e colaborativo para todas as 
@@ -22,12 +22,12 @@ convicções políticas ou qualquer outra característica pessoal.
 
 Todas as pessoas participantes devem agir em conformidade com a 
 legislação brasileira vigente e respeitar os princípios e diretrizes 
-estabelecidos neste Código de Conduta, contribuindo para um ambiente 
+estabelecidos neste código de conduta, contribuindo para um ambiente 
 ético, seguro, respeitoso e favorável à convivência, à colaboração e 
 ao crescimento da comunidade.
 
 
-Este Código de Conduta delineia nossas expectativas para todas as 
+Este código de conduta delineia nossas expectativas para todas as 
 pessoas que participam de nossa comunidade, bem como as consequências 
 de comportamentos inaceitáveis.
 
@@ -39,7 +39,7 @@ criar experiências seguras e positivas para todas as pessoas.
 Cidadania
 ----------------------
 
-Um objetivo suplementar deste Código de Conduta é aumentar a 
+Um objetivo suplementar deste código de conduta é aumentar a 
 cidadania, incentivando as pessoas participantes a reconhecer e 
 fortalecer as relações entre nossas ações e seus efeitos em nossa 
 comunidade.
@@ -60,15 +60,11 @@ Comportamento Esperado
 - Procure colaborar antes de iniciar conflitos.
 - Abstenha-se de comportamentos e comunicações humilhantes, discriminatórios, abusivos ou intimidatórios.
 - Esteja atento ao seu ambiente e às demais pessoas presentes. 
-Notifique uma pessoa associada ao HACKSPACE caso perceba uma situação 
-perigosa, alguém sofrendo constrangimento ou qualquer violação deste 
-Código de Conduta, mesmo que lhe pareça de pouca importância.
-
 - Lembre-se de que os espaços utilizados em eventos comunitários podem ser compartilhados com outras pessoas. Seja respeitoso com todos os presentes.
 - Contribua ativamente para a manutenção, organização e melhoria do espaço, zelando pela infraestrutura, pelos equipamentos e pelos recursos compartilhados.
-- Ajude a preservar e fortalecer a cultura, os valores e os princípios do HACKSPACE, promovendo um ambiente colaborativo, inclusivo, respeitoso e acolhedor.
+- Ajude a preservar e fortalecer a cultura, os valores e os princípios do Sanca-Hackspace, promovendo um ambiente colaborativo, inclusivo, respeitoso e acolhedor.
 - Acolha novos membros com respeito, paciência e disposição para orientar, incentivando sua integração e participação na comunidade.
-- Conheça, respeite e cumpra este Código de Conduta, contribuindo para que seus princípios sejam observados por toda a comunidade.
+- Conheça, respeite e cumpra este código de conduta, contribuindo para que seus princípios sejam observados por toda a comunidade.
 
 
 Comportamentos Inaceitáveis
@@ -79,7 +75,7 @@ assédio, comunicações ou ações abusivas, discriminatórias,
 depreciativas ou humilhantes, de qualquer participante em nossas 
 comunidades on-line, em todos os eventos relacionados e em
 comunicações individuais realizadas no contexto de atividades do 
-HACKSPACE. 
+Sanca-Hackspace. 
 
 O assédio inclui: comentários verbais, escritos ou visuais (incluindo 
 slides de apresentação) prejudiciais ou preconceituosos, relacionados
@@ -89,7 +85,7 @@ representações inapropriadas de violência; intimidação deliberada,
 perseguir ou importunar; fotografar ou gravar de modo abusivo; 
 perturbação repetida de conversas ou outros eventos; contato físico 
 ou visual inapropriado, ou abordagem sexual; e qualquer outra ação já 
-configurado na legislação Brasileira
+configurado na legislação brasileira
 
 
 Também são considerados comportamentos inaceitáveis quaisquer ações, 
@@ -98,19 +94,23 @@ fortalecimento de um ambiente saudável, colaborativo, seguro,
 respeitoso e acolhedor. Isso inclui condutas que desestimulem a 
 participação de outras pessoas, comprometam a convivência, enfraqueçam
 a cultura da comunidade, dificultem o compartilhamento de conhecimento 
-ou impeçam o crescimento coletivo do HACKSPACE.
+ou impeçam o crescimento coletivo do Sanca-Hackspace.
 
 Se você testemunha ou está sujeito a um comportamento inaceitável
 ----------------------
 
 Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras 
-preocupações, por favor notifique uma dos fundadores do Hackspace assim que possível. Você pode encontrar uma lista dos fundadores verificando os administradores/donos do grupo (telegram)[https://t.me/sanca_hs/18471]. Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras.
+preocupações, por favor notifique uma dos fundadores do Sanca-Hackspace assim que possível. Você pode
+encontrar uma lista dos fundadores verificando os administradores/donos do grupo (telegram)[https://t.me/sanca_hs/18471]. 
+Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras.
 
 
 
 Como responder a uma queixa
 ----------------------
-Se você acha que foi falsamente ou injustamente acusado de violar este Código de Conduta, deve notificar um dos fundadores com sua versão dos fatos, que será analisada juntamente com a queixa original. Os fundadores se encontram no grupo do (telegram)[https://t.me/sanca_hs/18471] , como administradores
+Se você acha que foi falsamente ou injustamente acusado de violar este Código de Conduta, deve notificar 
+um dos fundadores com sua versão dos fatos, que será analisada juntamente com a queixa original. Os
+fundadores se encontram no grupo do (telegram)[https://t.me/sanca_hs/18471] , como administradores
 
 
 
