@@ -123,7 +123,7 @@ O Sanca Hackspace possui dois planos de associação:
 - **Plano Associado Apoiador** – contribuição mensal de **R$ 150,00**.
 
 O **Plano Associado Apoiador** representa uma contribuição voluntária maior para auxiliar na
-sustentabilidade do Sanca Hackspace. Essa contribuição **não concede qualquer privilégio, benefício exclusivo, 
+sustentabilidade do Sanca Hackerspace. Essa contribuição **não concede qualquer privilégio, benefício exclusivo, 
 prioridade de uso ou direito diferenciado**.
 
 
