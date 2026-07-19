@@ -117,7 +117,7 @@ fundadores se encontram no grupo do [telegram](https://t.me/sanca_hs/18471) , co
 ## Plano de associado
 
 
-O Sanca Hackspace possui dois planos de associação:
+O Sanca Hackerspace possui dois planos de associação:
 
 - **Plano Associado** – contribuição mensal de **R$ 75,00**.
 - **Plano Associado Apoiador** – contribuição mensal de **R$ 150,00**.
