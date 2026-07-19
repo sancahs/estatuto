@@ -100,7 +100,7 @@ ou impeçam o crescimento coletivo do Sanca Hackerspace.
 ### Se você testemunha ou está sujeito a um comportamento inaceitável
 
 Se você estiver sujeito ou testemunhar um comportamento inaceitável, ou tiver outras 
-preocupações, por favor notifique uma dos fundadores do Sanca Hackspace assim que possível. Você pode
+preocupações, por favor notifique uma dos fundadores do Sanca Hackerspace assim que possível. Você pode
 encontrar uma lista dos fundadores verificando os administradores/donos do grupo [telegram](https://t.me/sanca_hs/18471). 
 Além disso, as pessoas associadas estão disponíveis para ajudar as pessoas que sofreram um comportamento inaceitável a se sentirem seguras.
 
