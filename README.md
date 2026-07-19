@@ -140,7 +140,7 @@ O pagamento será feito via PIX na conta bancária do Diretor Financeiro em serv
 Todo associado, independentemente do plano escolhido, possui direito a:
 
 - Ser tratado com respeito, igualdade e imparcialidade.
-- Participar das atividades promovidas pelo Sanca Hackspace.
+- Participar das atividades promovidas pelo Sanca Hackerspace.
 - Utilizar o espaço e os recursos compartilhados, observadas as regras internas e a disponibilidade.
 - Participar das discussões e contribuir para o desenvolvimento da comunidade.
 - Propor projetos, atividades e melhorias para o Sanca Hackerspace.
